@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Yaotian-Liu
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Yaotian-Liu/RISCV_Verilog
+  - Yaotian-Liu/FactorVAE
+  - Yaotian-Liu/obsidian-pseudocode
+  - Yaotian-Liu/simpleEDA
+
