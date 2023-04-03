@@ -24,9 +24,9 @@
     - title: BE in Microelectronics
       institution: Shanghai Jiao Tong University, Shanghai, China
       year: 2019~2023
-      # description:
-      #   - Description 1.
-      #   - Description 2.
+      description:
+        - Overall GPA 87/100
+        - SJTU Undergraduate Scholarship
 
 - title: Experience
   type: time_table
