@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: PhD Student in <a href='https://www.asu.edu/'>Arizona State University</a>
+subtitle: Second year PhD Student in <a href='https://www.asu.edu/'>Arizona State University</a>.
 
 profile:
   align: right
