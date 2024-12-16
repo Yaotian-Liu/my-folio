@@ -44,17 +44,24 @@
     - title: Research Assistant
       institution: Arizona State University, Tempe, AZ, US
       year: 2023/08 - Now
+      description:
+        - "<b>Skip-SCAR: Hardware-Friendly High-Quality Embodied Visual Navigation</b>, in submission to ICRA 2025."
+        - Lead of Intel 16 nm tape out projects, in charge of the design, verification and backend flow.
+        - <b>LLM-VeriPPA</b>
 
     - title: Final Year Project
       institution: Shanghai Jiao Tong University, Shanghai, China
       year: 2023
       description:
-        - x
+        - Implemented a functional ECO system with a Verilg parser written in PEG grammar, accepted by AICAS 2023.
+        - An ABC-based algorithm for efficient circuit pruning by removing functionally equivalent sub-circuits, which increase the performance of functional ECO.
+        
     - title: Undergraduate Research Assistant
       institution: Shanghai Jiao Tong University, Shanghai, China
       year: 2022/05 - 2022/09
       description:
-        - x
+        - Implemented a reinforcement learning algorithm for automatically stock trading.
+        - Reproduced an baseline algorithm <a href="https://github.com/ytliu74/FactorVAE">ytliu74/FactorVAE</a> from AAAI 2022.
 
 - title: Open Source Projects
   type: time_table
