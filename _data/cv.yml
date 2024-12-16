@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Yaotian Liu
-    - name: Date of Birth
-      value: July, 2000
     - name: Languages
       value: Chinese, English
 
@@ -12,37 +10,58 @@
   type: time_table
   contents:
     - title: PhD in Computer Engineering
-      institution: Arizona State University, Tempe, AZ, United States
-      year: 2023~2028(expected)
-      # description:
-      #   - Description 1.
-      #   - Description 2.
-      #   - title: Description 3.
-      #     contents:
-      #       - Sub-description 1.
-      #       - Sub-description 2.
+      institution: Arizona State University, Tempe, AZ, US
+      year: 2023/08 - Now
+      description:
+        - "GPA: 4.0/4.0"
+        # - Description 2.
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
     - title: BE in Microelectronics
       institution: Shanghai Jiao Tong University, Shanghai, China
       year: 2019~2023
       description:
-        - Overall GPA 87/100
+        - "GPA: 3.7/4.3. Rank: 19/67"
+        - Outstanding Graduates
         - SJTU Undergraduate Scholarship
 
-- title: Experience
+- title: Work Experience
   type: time_table
   contents:
-    - title: Digital IC Intern
+    - title: Digital IC Design Intern
       institution: Taize Semiconductor Co., Ltd., Shanghai, China
-      year: 2022-7~2022-9
+      year: 2022/07 - 2022/09 <br> 2023/03 - 2023/06
       description:
-        - Designed and implemented the data link layer for my company's self-developed inter-chip communication protocol. This protocol provides 46.7% more bi-directional bandwidth than Intel Spring Crest.
+        - Developed the micro-architecture for the data link layer of the company's proprietary inter-chip connection, supporting 1024 chips.
+          Co-author of a related patent. The design has been successfully taped out using TSMC 16 nm.
+        - Developed an accelerator for elliptic curve accumulation in Elliptic Curve Cryptography (ECC).
 
-# - title: Open Source Projects
-#   type: time_table
-#   contents:
-#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#       year: 2015-now
-#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: Research Assistant
+      institution: Arizona State University, Tempe, AZ, US
+      year: 2023/08 - Now
+
+    - title: Final Year Project
+      institution: Shanghai Jiao Tong University, Shanghai, China
+      year: 2023
+      description:
+        - x
+    - title: Undergraduate Research Assistant
+      institution: Shanghai Jiao Tong University, Shanghai, China
+      year: 2022/05 - 2022/09
+      description:
+        - x
+
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/ytliu74/obsidian-pseudocode">obsidian-pseudocode</a>
+      year: 2023 - now
+      description: An Obsidian plugin that renders LaTeX-style pseudocode in a code block, offering various auxiliary features.
 
 # - title: Honors and Awards
 #   type: time_table
