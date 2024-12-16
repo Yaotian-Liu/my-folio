@@ -23,6 +23,9 @@ $pink-color:          #f92080 !default;
 $pink-color-light:    #ffdddd !default;
 $yellow-color:        #efcc00 !default;
 
+$crimson-color:  #B22222 !default;
+$crimson-color-light: lighten($crimson-color, 25%);
+
 $grey-color:          #828282 !default;
 $grey-color-light:    lighten($grey-color, 40%);
 $grey-color-dark:     #1C1C1D;
