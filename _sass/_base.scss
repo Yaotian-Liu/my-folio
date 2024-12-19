@@ -856,3 +856,15 @@ pre {
     opacity: 1;
   }
 }
+
+.profile-img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 50% !important;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+  max-width: 170px;
+}
+
+.title {
+  font-family: "Roboto Slab", "Times New Roman", serif;
+}
