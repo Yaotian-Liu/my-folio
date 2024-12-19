@@ -8,7 +8,7 @@ middle_name:
 last_name: Liu
 email: yaotian_liu@asu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Welcome to Yaotian's Homepage!
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://vercel.com/" target="_blank">Vercel</a>.
